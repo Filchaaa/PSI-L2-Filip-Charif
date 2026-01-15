@@ -1,12 +1,12 @@
 body{
-    background-color: limegreen;
+    background-color: rgb(33, 58, 33);
 
 }
 .naglowek{
-    border: solid lightslategray 5px;
+    border: solid rgb(43, 142, 241) 5px;
 }
 .rozpiernicz{
-    color:rgb(255, 12, 12);
+    color:rgb(218, 191, 191);
     border: solid rgb(255, 251, 0) 5px;
     border-radius: 20px;
 }
@@ -17,6 +17,6 @@ main p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 main h2{
-    background-color:darkorange;
+    background-color:rgb(87, 33, 12);
     width:fit-content;
 }
